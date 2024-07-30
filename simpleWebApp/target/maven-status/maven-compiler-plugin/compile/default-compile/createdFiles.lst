@@ -1,0 +1,6 @@
+com\aanchal\simpleWebApp\controller\ProductController.class
+com\aanchal\simpleWebApp\controller\LoginController.class
+com\aanchal\simpleWebApp\controller\HomeController.class
+com\aanchal\simpleWebApp\model\Product.class
+com\aanchal\simpleWebApp\service\ProductService.class
+com\aanchal\simpleWebApp\SimpleWebAppApplication.class
